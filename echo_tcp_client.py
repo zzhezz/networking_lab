@@ -1,6 +1,6 @@
 from socket import *
 
-host_name = "10.18.128.218"
+host_name = "10.10.10.2"
 port_number = 1200
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
