@@ -1,7 +1,7 @@
 from socket import *
 
 # The IP address of the server
-server_ip = '10.18.128.218'
+server_ip = '10.10.10.2'
 server_port = 5000
 
 # Create a socket object
